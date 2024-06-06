@@ -152,4 +152,3 @@ Push the changes to GitHub:
 git push
 ```
 
-Your project should now be available on GitHub with proper documentation.
